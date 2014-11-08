@@ -1,3 +1,7 @@
+Github: https://github.com/bechtold/i2cdevlib
+Fork of: https://github.com/jrowberg/i2cdevlib
+I need to fix stuff for MPR121 and add new features for MPR121. When the changes are accepted as pullrequests I guess I will delete this fork.
+
 ============================================================================
 Note: for details about this project, please visit: http://www.i2cdevlib.com
 ============================================================================
