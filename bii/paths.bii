@@ -1,1 +1,14 @@
+/Arduino/ADS1115
+/Arduino/ADXL645
+/Arduino/BMA150
+/Arduino/AK8975
+/Arduino/ADXL345
+/Arduino/BMP085
+/Arduino/DS1307
+/Arduino/HMC5843
+/Arduino/HMC5883L
 /Arduino/I2Cdev
+/Arduino/IAQ2000
+/Arduino/ITG3200
+/Arduino/L3G4200D
+/Arduino/MPU6050
